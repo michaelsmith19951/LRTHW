@@ -1,0 +1,1 @@
+This second exercise shows the use of comments, which are indicated by the hashtag sign preceding a line of text. Comments are intended to help programmers learn another programmer's code, or to "disable" something that doesn't work. Ruby ignores comments, so the program's functionality isn't affected by them.
