@@ -1,0 +1,1 @@
+This is the fifth exercise that shows variables being printed to the console. Each variable is equal to a value, such as a number or a word (string).
