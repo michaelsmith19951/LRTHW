@@ -1,0 +1,1 @@
+This is the sixth exercise that combines strings and variables together. In other words, a variable is set equal to a string, and the result is printed onto one line.
