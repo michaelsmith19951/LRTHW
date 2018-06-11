@@ -1,0 +1,1 @@
+This is the third exercise that does some basic math operations such as addition, subtraction, multiplication and division. Modulus is used in the math operations too, and it does division with remainders.
