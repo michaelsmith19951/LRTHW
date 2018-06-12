@@ -1,0 +1,1 @@
+This seventh exercise prints text to the console by using variables. A period is multiplied by 10, thus ellipsis are created. The word "CheeseBurger" is cleverly printed to the console letter by letter, using individual variables for each letter.
