@@ -1,0 +1,1 @@
+This is the tenth exercise that uses \t to adjust spacing by tabbing lines of text. "\n" is used to split a line of text in half, and "\\" is used to add a single "\".
