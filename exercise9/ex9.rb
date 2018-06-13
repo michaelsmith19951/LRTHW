@@ -8,7 +8,7 @@ puts "Here are the days: #{days}"
 # Print the months of the week to the console
 puts "Here are the months: #{months}"
 
-# Print these 4 lines of text to the console
+# Print these 4 lines of text to the console with modulus q
 puts %q{
 	There's something going on here.
 	With this weird quote
