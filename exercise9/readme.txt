@@ -1,0 +1,1 @@
+This is the ninth exercise that prints text to the console. One group of text (the days of the week) is printed on a single line, while the other group of text (the months of the year Jan - Aug) is printed on its own line through the use of the "n" value.
