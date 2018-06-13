@@ -1,0 +1,1 @@
+This is the eleventh exercise that asks questions to be answered by the user. The three questions ask for age, height and weight. After the user answers the three questions, a final statement is printed to the console that summarizes the answers that were provided.
