@@ -1,0 +1,1 @@
+This is the twelfth exercise that asks the user to input 2 numbers. The first number is multiplied by 100, and the second number is divided by 100.
