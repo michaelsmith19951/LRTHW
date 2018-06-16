@@ -1,0 +1,1 @@
+This is the fourteenth exercise that uses "ARGV" to ask the user a few questions. The user must give an answer to each question in order for the program to complete its run. This particular exercise uses "ARGV" with "gets.chomp", to store variables.
