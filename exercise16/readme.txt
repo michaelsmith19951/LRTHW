@@ -1,0 +1,1 @@
+This is the sixteenth exercise that uses one "ARGV" argument to erase a file. After that, a new "txt" file is created, consisting of three lines of text that the user must input. Since there are multiple lines to be inputted, "$stdin" is used instead of "ARGV". Finally, the file is closed after being created and wrote to.
