@@ -1,0 +1,1 @@
+This is the eighteenth exercise that firstly uses "*args" to contain 2 names in a function. Then, a shorter version (less code) of creating a function is used, which outputs the same result as the "*args" function does.
