@@ -1,0 +1,1 @@
+This is the seventeenth exercise that uses 2 variables with "ARGV" to copy data from one .txt file to another. So, the newly created .txt file has the same contents as the original .txt file that was copied from.
