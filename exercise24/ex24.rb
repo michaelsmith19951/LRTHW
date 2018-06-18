@@ -1,7 +1,7 @@
 
 puts "Let's practice everything."
 
-# Changes // to /
+# Changes \\ to \
 puts 'You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.'
 
 # Uses \t for tabbing a line and \n for creating a new line. <<END is a "heredoc", which is short for "here document". It's used to create a multi-line string.
