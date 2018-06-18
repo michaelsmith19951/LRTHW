@@ -1,0 +1,1 @@
+This is the 20th exercise that uses one argument with "argv" and reads the contents of a .txt file, which consists of three lines. The three lines are repeated, or "rewinded", so you'll see the three lines twice.
