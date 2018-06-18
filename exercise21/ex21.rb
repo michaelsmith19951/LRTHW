@@ -40,6 +40,6 @@ puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ: #{iq}"
 puts "Here is a puzzle."
 
 # Set a new variable called "what" equal to everything else
-what = add(age, subtract(height, multiply, (weight, divide(iq, 2))))
+what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 
 puts "That becomes: #{what}. Can you do it by hand?"
