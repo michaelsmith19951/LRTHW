@@ -1,0 +1,1 @@
+This is the 25th exercise that breaks a given sentence (inputted by the user) into words, and the words are shuffled. All of the code makes use of functions, variables and arguments. The code is ran through the "irb" interpreter in the terminal.
